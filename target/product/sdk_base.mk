@@ -27,10 +27,8 @@ PRODUCT_PACKAGES := \
 	Fallback \
 	Gallery \
 	GestureBuilder \
-	LegacyCamera \
 	librs_jni \
 	LiveWallpapersPicker \
-	Mms \
 	Music \
 	rild \
 	SdkSetup \
